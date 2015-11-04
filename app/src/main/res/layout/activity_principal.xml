@@ -1,0 +1,86 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Principal">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Lista de Contactos"
+            android:id="@+id/textView3"
+            android:layout_gravity="center_horizontal"
+            android:paddingLeft="50dp"
+            android:paddingTop="25dp"
+            android:paddingRight="50dp"
+            android:paddingBottom="25dp"
+            android:textAlignment="center"
+            android:textSize="30dp"
+            android:background="#004d40"
+            android:textColor="#fff" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/botañ"
+                android:id="@+id/btAñ"
+                android:onClick="addDialog"
+                android:layout_weight="1"
+                android:textSize="9dp" />
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/btord"
+                android:id="@+id/btOrd"
+                android:onClick="ordenaNombresAsc"
+                android:layout_weight="1"
+                android:textSize="9dp" />
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/btordd"
+                android:id="@+id/btord"
+                android:layout_weight="1"
+                android:onClick="ordenaNombresDesc"
+                android:textSize="9dp" />
+        </LinearLayout>
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/lvlista"
+            android:layout_below="@+id/textView3"
+            android:layout_gravity="center_horizontal" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/sin"
+        android:id="@+id/tvUp"
+        android:layout_alignParentEnd="false"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:textAlignment="center"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentRight="true"
+        android:textSize="15dp" />
+</RelativeLayout>

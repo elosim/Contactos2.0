@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Contacto</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Información del contacto</string>
+    <string name="j">Large Text</string>
+    <string name="dial_back">Atras</string>
+    <string name="nº">Nº de teléfono</string>
+    <string name="nomº">Nombre</string>
+    <string name="añc">Nuevo contacto</string>
+    <string name="aña">Añadir</string>
+    <string name="numºº">Nº de teléfono</string>
+    <string name="botañ">Añadir</string>
+    <string name="Edit">Editar</string>
+    <string name="tell">Telefonos</string>
+    <string name="btord">Ordenar Asc</string>
+    <string name="btordd">Ordenar Desc</string>
+    <string name="bor">Borrar contacto</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="seg">¿Estás seguro de borrarlo?</string>
+    <string name="accept">Aceptar cambios</string>
+    <string name="llam">Llamar</string>
+    <string name="edittitle">Editar información</string>
+    <string name="addtitle">Añadir contacto</string>
+    <string name="menu_añadir">Añadir contacto</string>
+    <string name="menu_refresh">Refrescar Contactos</string>
+    <string name="menu_import">Importar Contactos</string>
+    <string name="menu_export">Exportar Contactos</string>
+    <string name="sin">Sin actualizar</string>
+
+</resources>

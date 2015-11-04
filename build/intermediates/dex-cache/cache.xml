@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\2dam.BECARIAINFORMAT\Desktop\Contactos\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\2dam.BECARIAINFORMAT\Desktop\Contactos\app\build\intermediates\pre-dexed\debug\classes-2e2e216523b6766fc75ebc28c5227194bcc8b720.jar" />
+    </item>
+    <item
+        jar="C:\Users\2dam.BECARIAINFORMAT\Desktop\Contactos\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\2dam.BECARIAINFORMAT\Desktop\Contactos\app\build\intermediates\pre-dexed\debug\classes-21f76265262290d541e412868c3d56c865ef05d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\2dam.BECARIAINFORMAT\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\2dam.BECARIAINFORMAT\Desktop\Contactos\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-5af249fef829f2ffa879bb4936ec9498c08fd4e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\2dam.BECARIAINFORMAT\Desktop\Contactos\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\2dam.BECARIAINFORMAT\Desktop\Contactos\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-c0f2ba630ef653c3fe3f23aef51c04cf77f377f6.jar" />
+    </item>
+
+</items>
